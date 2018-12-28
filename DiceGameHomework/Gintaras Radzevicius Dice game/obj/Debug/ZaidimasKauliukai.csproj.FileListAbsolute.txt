@@ -1,0 +1,7 @@
+C:\Users\gradz\source\repos2\ZaidimasKauliukai\obj\Debug\ZaidimasKauliukai.csprojAssemblyReference.cache
+C:\Users\gradz\source\repos2\ZaidimasKauliukai\obj\Debug\ZaidimasKauliukai.csproj.CoreCompileInputs.cache
+C:\Users\gradz\source\repos2\ZaidimasKauliukai\bin\Debug\ZaidimasKauliukai.exe.config
+C:\Users\gradz\source\repos2\ZaidimasKauliukai\bin\Debug\ZaidimasKauliukai.exe
+C:\Users\gradz\source\repos2\ZaidimasKauliukai\bin\Debug\ZaidimasKauliukai.pdb
+C:\Users\gradz\source\repos2\ZaidimasKauliukai\obj\Debug\ZaidimasKauliukai.exe
+C:\Users\gradz\source\repos2\ZaidimasKauliukai\obj\Debug\ZaidimasKauliukai.pdb
